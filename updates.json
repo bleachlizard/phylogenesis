@@ -1,0 +1,10 @@
+{
+  "homepage": "https://bleachlizard.paulpemberton.net/phylogenesis",
+  "1.18.2": {
+    "0.1": "- Initial creation of the mod",
+  },
+  "promos": {
+    "1.18.2-latest": "0.1",
+    "1.18.2-recommended": "0.1",
+  }
+}
